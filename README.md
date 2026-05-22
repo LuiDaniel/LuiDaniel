@@ -2,7 +2,7 @@
 
 ### Tech Stack
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,py,java,git,vite,django,bootstrap,mariadb,mysql" />
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,py,java,git,vite,django,bootstrap,mysql" />
 </a>
 
 ### Connect with me
